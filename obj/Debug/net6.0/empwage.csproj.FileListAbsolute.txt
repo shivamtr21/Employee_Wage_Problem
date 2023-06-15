@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\bin\Debug\net6.0\empwage.exe
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\bin\Debug\net6.0\empwage.deps.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\bin\Debug\net6.0\empwage.runtimeconfig.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\bin\Debug\net6.0\empwage.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\bin\Debug\net6.0\empwage.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\empwage.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\empwage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\empwage.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\empwage.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\empwage.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\empwage.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\refint\empwage.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\empwage.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\empwage.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day1(remap)\Assignment\empwage\empwage\obj\Debug\net6.0\ref\empwage.dll
