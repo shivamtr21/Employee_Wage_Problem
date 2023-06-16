@@ -14,6 +14,7 @@ namespace empwage
         {
              
             int IS_FULL_TIME = 1;
+            int IS_PART_TIME = 2;
             int empHrs =0;
             int empWage = 0;
 
@@ -28,6 +29,11 @@ namespace empwage
             {
                 empHrs = 8;
                  
+            }
+            else if(result == IS_PART_TIME)
+            {
+                Console.WriteLine("Employee is present for part time")
+                empHrs = 4;
             }
 
             else
