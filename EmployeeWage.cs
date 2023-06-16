@@ -12,35 +12,48 @@ namespace empwage
         
         public static void EmployeeAttendence()
         {
-            int empHrs = 0;
-            int empWage = 0;
-            int Wage_Per_Hour = 20;
-
             int IS_FULL_TIME = 1;
-            int IS_PART_TIME = 2;
+            int IS_PART_TTIME = 2;
 
-            Random random = new Random();
-            int result = random.Next(3);
+            int Max_Days = 20;
+            int Max_Hours = 100;
+            int Wage_Per_hrs = 20;
 
-            switch (result)
+            int EmpHrs = 0;
+            int Total_wage = 0;
+
+            int Total_work_Hour = 0;
+            int day = 1;
+
+            while(day <= Max_Days && Total_work_Hour <= Max_Hours)
             {
-                case IS_FULL_TIME:
-                    
-                        empHrs = 8;
+                Random random = new Random();
+                int result = random.Next(3);
+
+                switch (result)
+                {
+                    case IS_FULL_TIME:
+                        EmpHrs = 8;
                         break;
 
-                case IS_PART_TIME:
-                    empHrs = 4;
-                    break;
 
-                default:
-                    empHrs = 0;
-                    break;
+                    case IS_PART_TTIME:
+                        EmpHrs = 4;
+                        break;
+
+
+                    default:
+                        EmpHrs = 0;
+                        break;
+                }
+                day++;
+
+                Total_work_Hour = (Total_work_Hour + EmpHrs);
+                Total_wage = (Total_work_Hour * Wage_Per_hrs);
             }
+            Console.WriteLine("Total working hour in a month " + Total_work_Hour);
+            Console.WriteLine("Total salary for a month " + Total_wage);
 
-            empWage = empHrs * Wage_Per_Hour;
-            Console.WriteLine("Emp Wage :"+ empWage)
-                
 
 
 
